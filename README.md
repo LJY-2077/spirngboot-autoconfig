@@ -1,2 +1,2 @@
 # spirngboot-autoconfig
-spring自动配置
+spring自动装配注解配置测试
